@@ -1,7 +1,7 @@
 <h1> Datu-atzipeneko proiektua(Aritz Arruabarrena):</h1>
 
 Proiektuaren helburu nagusia Mongo datu-base bateko datuak atzitzeko Rest API bat garatzea izango da, Spring Java teknologia erabiliz.
-
+JSON-a ez du uzten igotzen pisu gehiegi duelako
 
 <h2>Datuak:</h2>
 

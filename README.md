@@ -7,7 +7,7 @@ JSON-a ez du uzten igotzen pisu gehiegi duelako, eta hemen dago nundik atera nue
 
 Datuak erabiltzerako orduan, minimo batzuk genituen betebehar zirenak, eskatzen zena zen json edo csv artxibo bat izatea, 500 erregistro baino gehiago izan behar zuen eta erregistro horietan zegoen informazioetako eremu bat, array-a edo objetu motakoa izan behar zen.
 
-Datuak bilatzerako orduan, <u src="https://www.kaggle.com/">Kaggle-ko </u> horrialdea erabili dut, horrialde horretan informazio asko dago eta gainera informazio interesgarria. 
+Datuak bilatzerako orduan, [Kaggle-ko](https://www.kaggle.com/)horrialdea erabili dut, horrialde horretan informazio asko dago eta gainera informazio interesgarria. 
 Nire proiekturako artikuluen inguruko json bat hartu dut, hainbat periodietako artikuluak kontuan hartuta, horietako eremu bat array-a da eta 60 mila registro ditu, orduan ezkatzen duena betetzen du. Datu honekin lanean ibiltzeko, esan beharrekoa da artikulu guztiak ingelezez daudela. <u src="https://www.mongodb.com/products/tools/compass" >MongoDB Compass</u>
 
 <img src="./images/Screenshot 2024-01-14 203402.png">
